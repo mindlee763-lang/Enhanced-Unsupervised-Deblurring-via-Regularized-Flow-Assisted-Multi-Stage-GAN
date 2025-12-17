@@ -7,4 +7,7 @@ Triaining:
 python train.py
 
 Testing:
+
 python test.py
+
+DOI: 10.5281/zenodo.17960188
